@@ -1,0 +1,16 @@
+.navbar{
+    background: #1e2125;
+    height: 60px;
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+    
+}
+p{
+    font-size: 25px;
+    color: aliceblue;
+}
+h3{
+    color: aliceblue;
+    font-weight: 400;
+}

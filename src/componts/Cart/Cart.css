@@ -1,0 +1,10 @@
+.course-cart{
+    text-align: center;
+    border: 1px solid black;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: 20px;
+    border-radius: 10px;
+    margin-bottom: 50px;
+    box-shadow: 1px 1px 20px aqua;
+}

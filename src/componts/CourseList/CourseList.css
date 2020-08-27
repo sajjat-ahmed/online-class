@@ -1,0 +1,15 @@
+img{
+    width: 200px;
+}
+.course-list{
+    display: flex;
+    margin: 10px;
+    padding: 20px;
+    border: 1px solid black;
+    border-radius: 10px;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+.title{
+    margin-left: 50px;
+}
