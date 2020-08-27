@@ -13,7 +13,7 @@ const CourseList = (props) => {
                 <div className="title">
                     <h2>{name}</h2>
                     <h1>{price}$</h1 >
-                    <button onClick={() => handleAddCourse(props.course)}>Enroll now</button>
+                    <button className="btn btn-dark" onClick={() => handleAddCourse(props.course)}>Enroll now</button>
                 </div>
             </div>
         </div>

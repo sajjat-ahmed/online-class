@@ -6,7 +6,7 @@ const Navbar = () => {
         <div>
             <nav className="navbar">
                 <p>Online Class</p>
-                <h3>course available 12</h3>
+                <p>course available 12</p>
             </nav>
         </div>
     );
